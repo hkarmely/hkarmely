@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently enjoyng my self instucting  in Leap learner israel (https://www.leaplearner.co.il/), 
+- A coding Schoole for kids 6-14 (K-14) years old 
+-
 <!--
 **hkarmely/hkarmely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
