@@ -1,5 +1,5 @@
 ### Hi there 👋
- 🔭 I’m currently enjoyng my self 
+ 🔭 As of 2022  i 'm curently enjoyng my self with:
 - instucting  in Leap learner israel (https://www.leaplearner.co.il/), 
                                              coding Schoole for kids 6-14 (K-14) years old 
 - Teaching Universities & Coding Bootcamps students that stuggle with chors and projects via online platforms like: 
