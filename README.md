@@ -1,7 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently enjoyng my self instucting  in Leap learner israel (https://www.leaplearner.co.il/), 
-- A coding Schoole for kids 6-14 (K-14) years old 
--
+ 🔭 I’m currently enjoyng my self 
+- instucting  in Leap learner israel (https://www.leaplearner.co.il/), 
+                                             coding Schoole for kids 6-14 (K-14) years old 
+- Teaching Universities & Coding Bootcamps students that stuggle with chors and projects via online platforms like: 
+                                              https://www.limudnaim.co.il/%D7%9E%D7%95%D7%A8%D7%94-%D7%A4%D7%A8%D7%98%D7%99-%D7%90%D7%95%D7%A0%D7%9C%D7%99%D7%99%D7%9F/%D7%97%D7%9F-%D7%9B%D7%A8%D7%9E%D7%9C%D7%99
 <!--
 **hkarmely/hkarmely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
