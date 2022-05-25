@@ -6,10 +6,19 @@
                                               https://www.limudnaim.co.il/%D7%9E%D7%95%D7%A8%D7%94-%D7%A4%D7%A8%D7%98%D7%99-%D7%90%D7%95%D7%A0%D7%9C%D7%99%D7%99%D7%9F/%D7%97%D7%9F-%D7%9B%D7%A8%D7%9E%D7%9C%D7%99
                                               
                                               
-- ⚡ Fun fact: ...
+- ⚡ Some facts about this GitHub account: ...
   Although my Github account is a bit of a mess...
   althoug the first repo was created in april 2016, 
-  befor that and since then i have worked wordpress project -> installing wordpress on online 
+  befor that and since then i have worked wordpress project -> installing wordpress on online hosting, and on local PC's (for development), insstalling and
+  tweeking Themes, Plugins, connecting domains and SSL Certificates (If needed), and Third party applications connections (like google analytics, ZOHO CRM real   time traker and more), 
+  The nature of the work and the deployment, means that i do not have github repo's for it. 
+  But I can easely restore most of such projects with real wordpress application (working online of local) 
+   
+  Some other code was created for my students, and there for... cannot be presentd in here. 
+  Rhat code could be done with some anvanced standard techlologies or tools like Node/Express server of Sequilze ORM from one hand, 
+  or some "simple" or complex native JavaScript
+  
+  
 
                                               
 <!--
