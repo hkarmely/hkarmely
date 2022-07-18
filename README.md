@@ -20,6 +20,37 @@
   
   
 
+    • מקבץ פרויקטים לדוגמא (* https://github.com/hkarmely?tab=repositories)
+פרויקטים עם קוד
+    • מעקב חופשות בעדכון של Real time עם Node, React, MySQL, Express, Socket.io  ו- HEROKU
+לצפייה ב"לייב"  https://follow-flights-react-practice.herokuapp.co 
+לצפייה בקוד https://github.com/hkarmely/follow-vecations
+    • שרת node שמשרת נתונים שנקראים מקובץ אקסל לדפדפן, מתעדכנים ב Real Time כאשר נשמרים שינויים בקובץ אקסל (ניתן להוריד ולהריץ את הקוד באמצעות ההוראות בקובץ ה README)
+קוד בלבד: https://github.com/hkarmely/node-server-for-ms-excel-with-real-time-changes-watching
+    • עמוד HTML שמאפשר בחירת כל קובץ אקסל משולחן העבודה ומציג את תכנו על המסך וגם מעדכן ב Real Time כאשר נשמרים שינויים בקובץ 
+לצפייה ב"לייב" https://hkarmely.github.io/Real-time-Ms-excel-display
+לצפייה בקוד https://github.com/hkarmely/Real-time-Ms-excel-display
+    • רשימת משימות שנשמרת לתוך ה Local Storage של הדפדפן
+לצפייה ב"לייב"  https://hkarmely.github.io/project-ToDoList-vanilla-JS/
+לצפייה בקוד https://github.com/hkarmely/project-ToDoList-vanilla-JS
+    • אתר שקורא נתונים על מטבעות קריפטוגרפיים מתוך API  ומאפשר ליצור גרף שמתעדכן ב  Real Time
+לצפייה ב"לייב" https://hkarmely.github.io/Follow-Crypto-Coins/
+לצפייה בקוד https://github.com/hkarmely/Follow-Crypto-Coins
+קודים קטנים ומגניבים
+    • סניפט קוד של Node שמבצע Scraping ומוריד תמונות מאתר כלשהוא עם חבילת npm puppeteer, ממש מטופש וקטן אבל כיפי מאד וניתן גם להרחבה לאובייקטים 
+לצפייה בקוד https://github.com/hkarmely/a-stupid-picure-puppeteer-scraper 
+    •  אפליקציה שמדגימה ציור על HTML Canvas באמצעות JavaScript 
+לצפייה ב"לייב" https://hkarmely.github.io/radius-volume-calculate-and-draw/ 
+לצפייה בקוד https://github.com/hkarmely/radius-volume-calculate-and-draw 
+פרויקטים (כיפיים בתכנות וגם בנושאים אחרים) ללא קוד מתועד שאפשר לחלוק
+    • התקנת לינוקס Ubuntu על מחשב ישן בן למעלה מ 15 של IBM עם מעבד pentium2 וחיבור שלו לטלויזיה מהאחרונות של SONY בגודל של "טלויזיה", איכותית עם מסך שטוח "trinitron" דרך svideo, השמשת המחשב והטלויזיה לצורך משחקים וצפיה בסרטים
+    • באופן דומה הצלת מחשב נייד ישן של DELL ע"י התקנת מע' הפעלה Linux Mint וחיבור לטלויזיית פלאסמה ישנה מאד שלא הגיבה לחיבור לשום דבר אחר.  
+    • שינוי נראות של אתר (החלפת צבעים, הורדת והוספת אלמנטים) באמצעות פקודות JS שנשתלו באמצעות GTM (Google Tag Manager) כיוון שלא הייתה ללקוח גישה ל CRM והייתה דחיפות בביצוע השינוי (אחד הדברים המוזרים יותר שעשיתי, אבל... סיפק תוצאה). 
+    • בניית תהליכי אוטומציה ב Low Code ב ZOHO CRM עבור מערך שירות לקוחות (אחרי שבניתי תהליכים ומערך הדרכה לאותו שירות לקוחות) 
+    • בניית דפי נחיתה עם תהליכי אוטומציה במערכות שונות: שלח מסר, רב מסר, viPlus, שמיר מערכות
+    • קידום SEO למגוון אתרים
+    • הקמת קמפיינים בפרסום ממומן בתעשיות שונות ובפלטפורמות שונות 
+    • הקמת מערכת BI באמצעות Tableau עבור אתר עם עשרות אלפי לקוחות חודשיים  לצורך ביצוע דיווחים לגוף שעליו חלה רגולציה בנקאית.
                                               
 <!--
 **hkarmely/hkarmely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
