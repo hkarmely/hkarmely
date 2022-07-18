@@ -26,14 +26,14 @@
 לצפייה ב"לייב"  https://follow-flights-react-practice.herokuapp.co 
 לצפייה בקוד https://github.com/hkarmely/follow-vecations
 - שרת node שמשרת נתונים שנקראים מקובץ אקסל לדפדפן, מתעדכנים ב Real Time כאשר נשמרים שינויים בקובץ אקסל (ניתן להוריד ולהריץ את הקוד באמצעות ההוראות בקובץ ה README)
-- קוד בלבד: https://github.com/hkarmely/node-server-for-ms-excel-with-real-time-changes-watching
-    - עמוד HTML שמאפשר בחירת כל קובץ אקסל משולחן העבודה ומציג את תכנו על המסך וגם מעדכן ב Real Time כאשר נשמרים שינויים בקובץ 
+- קוד בלבד: https://github.com/hkarmely/node-server-for-ms-excel-with-real-time-changes-watching 
+- עמוד HTML שמאפשר בחירת כל קובץ אקסל משולחן העבודה ומציג את תכנו על המסך וגם מעדכן ב Real Time כאשר נשמרים שינויים בקובץ 
 לצפייה ב"לייב" https://hkarmely.github.io/Real-time-Ms-excel-display
 לצפייה בקוד https://github.com/hkarmely/Real-time-Ms-excel-display
-    - רשימת משימות שנשמרת לתוך ה Local Storage של הדפדפן
+- רשימת משימות שנשמרת לתוך ה Local Storage של הדפדפן
 לצפייה ב"לייב"  https://hkarmely.github.io/project-ToDoList-vanilla-JS/
 לצפייה בקוד https://github.com/hkarmely/project-ToDoList-vanilla-JS
-    - אתר שקורא נתונים על מטבעות קריפטוגרפיים מתוך API  ומאפשר ליצור גרף שמתעדכן ב  Real Time
+- אתר שקורא נתונים על מטבעות קריפטוגרפיים מתוך API  ומאפשר ליצור גרף שמתעדכן ב  Real Time
 לצפייה ב"לייב" https://hkarmely.github.io/Follow-Crypto-Coins/
 לצפייה בקוד https://github.com/hkarmely/Follow-Crypto-Coins
 קודים קטנים ומגניבים
