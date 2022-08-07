@@ -1,15 +1,7 @@
 ### Hi there 👋
  🔭 As of 2022 I work as a freelance fullstack developer for a variety of private clients.
 I also help students studying computer science in colleges and universities, as well as in programming bootcamps
-
- i 'm also curently enjoyng my self with:
-- instucting  in Leap learner israel (https://www.leaplearner.co.il/), 
-                                             coding Schoole for kids 6-14 (K-14) years old 
-- Teaching Universities & Coding Bootcamps students that stuggle with chors and projects via online platforms like: 
-                                              https://www.limudnaim.co.il/%D7%9E%D7%95%D7%A8%D7%94-%D7%A4%D7%A8%D7%98%D7%99-%D7%90%D7%95%D7%A0%D7%9C%D7%99%D7%99%D7%9F/%D7%97%D7%9F-%D7%9B%D7%A8%D7%9E%D7%9C%D7%99
-                                              
-                                                                                           
-                                              
+                                                                 
 - ⚡ Some facts about this GitHub account: ...
 - In the past 10 years I have been practicing many web projects, most of them based on wordpress platform -> installing wordpress on online hosting, and on local PC's (for development), insstalling and tweeking Themes, Plugins, connecting domains and SSL Certificates (If needed), and Third party applications connections (like google analytics, ZOHO CRM real time traker and more), The nature of the work and the deployment, means that i do not have github repo's for it. But I can easely restore most of such projects with real wordpress application (working online of local)
 
@@ -18,6 +10,14 @@ Since 2018 I have been involved with more complex projects including Python-Djan
 Some of this code can be seen in this Repo.Some other code that was created for clients ,cannot be presentd in here. 
 
 My experience include anvanced techlologies or tools like Node/Express server of Sequilze ORM from one hand, or some "simple" or complex native JavaScript on the other. 
+
+ i 'm also curently enjoyng my self with:
+- instucting  in Leap learner israel (https://www.leaplearner.co.il/), 
+                                             coding Schoole for kids 6-14 (K-14) years old 
+- Teaching Universities & Coding Bootcamps students that stuggle with chors and projects via online platforms like: 
+                                              https://www.limudnaim.co.il/%D7%9E%D7%95%D7%A8%D7%94-%D7%A4%D7%A8%D7%98%D7%99-%D7%90%D7%95%D7%A0%D7%9C%D7%99%D7%99%D7%9F/%D7%97%D7%9F-%D7%9B%D7%A8%D7%9E%D7%9C%D7%99
+                                              
+                                                                        
  -
  -
 - פרויקטים לדוגמא עם קוד
