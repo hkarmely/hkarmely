@@ -30,7 +30,7 @@ I also help students studying computer science in colleges and universities, as 
 - פרוייקט WebScrapping מורכב שמוריד רשמת קטגוריות, קבצי מוצרים לכל קטגוריה ותמונות לכל מוצר, בנוי על בסיס node.js עם חבילת puppeteer של npm:
 https://github.com/hkarmely/Heavy-Web-Scraper-With-NodeJS-Puppeteer
 - משחק "סנייק" מבוסס על פלפורמת phaser שהיא פלפורמה לייצור משחקים לשפת ג'אווה סקריפט: 
- https://github.com/hkarmely/JavaScript-phaser-framwork-snake-game
+ https://github.com/hkarmely/JavaScript-phaser-framwork-snake-game ניתן לשחק במשחק ב"אונליין" כאן: https://hkarmely.github.io/JavaScript-phaser-framwork-snake-game/
 - מעקב חופשות בעדכון של Real time עם Node, React, MySQL, Express, Socket.io  ו- HEROKU
 לצפייה ב"לייב"  https://follow-flights-react-practice.herokuapp.co 
 לצפייה בקוד https://github.com/hkarmely/follow-vecations
