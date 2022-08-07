@@ -22,10 +22,10 @@ I also help students studying computer science in colleges and universities, as 
   Rhat code could be done with some anvanced standard techlologies or tools like Node/Express server of Sequilze ORM from one hand, 
   or some "simple" or complex native JavaScript
   
-  
+ -
+ -
 - פרויקטים לדוגמא עם קוד
 - הפרווייקטים בחשבון זה: https://github.com/hkarmely?tab=repositories
-- 
 - מעקב חופשות בעדכון של Real time עם Node, React, MySQL, Express, Socket.io  ו- HEROKU
 לצפייה ב"לייב"  https://follow-flights-react-practice.herokuapp.co 
 לצפייה בקוד https://github.com/hkarmely/follow-vecations
