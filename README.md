@@ -25,8 +25,7 @@ I also help students studying computer science in colleges and universities, as 
  -
  -
 - פרויקטים לדוגמא עם קוד
-- פ[
-רוייקט WebScrapping מורכב שמוריד רשמת קטגוריות, קבצי מוצרים לכל קטגוריה ותמונות לכל מוצר, בנוי על בסיס node.js עם חבילת puppeteer של npm: [
+- פרוייקט WebScrapping מורכב שמוריד רשמת קטגוריות, קבצי מוצרים לכל קטגוריה ותמונות לכל מוצר, בנוי על בסיס node.js עם חבילת puppeteer של npm:
 https://github.com/hkarmely/Heavy-Web-Scraper-With-NodeJS-Puppeteer
 - הפרווייקטים בחשבון זה: https://github.com/hkarmely?tab=repositories
 - מעקב חופשות בעדכון של Real time עם Node, React, MySQL, Express, Socket.io  ו- HEROKU
