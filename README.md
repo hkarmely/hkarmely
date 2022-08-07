@@ -23,9 +23,9 @@ I also help students studying computer science in colleges and universities, as 
   or some "simple" or complex native JavaScript
   
   
-
-- מקבץ פרויקטים לדוגמא (* https://github.com/hkarmely?tab=repositories)
-- פרויקטים עם קוד
+- פרויקטים לדוגמא עם קוד
+- הפרווייקטים בחשבון זה: https://github.com/hkarmely?tab=repositories
+- 
 - מעקב חופשות בעדכון של Real time עם Node, React, MySQL, Express, Socket.io  ו- HEROKU
 לצפייה ב"לייב"  https://follow-flights-react-practice.herokuapp.co 
 לצפייה בקוד https://github.com/hkarmely/follow-vecations
