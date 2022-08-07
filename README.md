@@ -1,5 +1,8 @@
 ### Hi there 👋
- 🔭 As of 2022  i 'm curently enjoyng my self with:
+ 🔭 As of 2022 I work as a freelance fullstack developer for a variety of private clients.
+I also help students studying computer science in colleges and universities, as well as in programming bootcamps
+
+ i 'm also curently enjoyng my self with:
 - instucting  in Leap learner israel (https://www.leaplearner.co.il/), 
                                              coding Schoole for kids 6-14 (K-14) years old 
 - Teaching Universities & Coding Bootcamps students that stuggle with chors and projects via online platforms like: 
