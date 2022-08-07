@@ -11,17 +11,13 @@ I also help students studying computer science in colleges and universities, as 
                                                                                            
                                               
 - ⚡ Some facts about this GitHub account: ...
-  Although my Github account is a bit of a mess...
-  althoug the first repo was created in april 2016, 
-  befor that and since then i have worked wordpress project -> installing wordpress on online hosting, and on local PC's (for development), insstalling and
-  tweeking Themes, Plugins, connecting domains and SSL Certificates (If needed), and Third party applications connections (like google analytics, ZOHO CRM real   time traker and more), 
-  The nature of the work and the deployment, means that i do not have github repo's for it. 
-  But I can easely restore most of such projects with real wordpress application (working online of local) 
-   
-  Some other code was created for my students, and there for... cannot be presentd in here. 
-  Rhat code could be done with some anvanced standard techlologies or tools like Node/Express server of Sequilze ORM from one hand, 
-  or some "simple" or complex native JavaScript
-  
+- In the past 10 years I have been practicing many web projects, most of them based on wordpress platform -> installing wordpress on online hosting, and on local PC's (for development), insstalling and tweeking Themes, Plugins, connecting domains and SSL Certificates (If needed), and Third party applications connections (like google analytics, ZOHO CRM real time traker and more), The nature of the work and the deployment, means that i do not have github repo's for it. But I can easely restore most of such projects with real wordpress application (working online of local)
+
+Since 2018 I have been involved with more complex projects including Python-Django front & back complex API and credits application, and also MEAN and MERN FullStack JavaScript projects involving MySql or MongoDb/NoSql Databases, Sokets, Stata Management tools like Resux/Mobix and RealTime updates with Sockets. 
+
+Some of this code can be seen in this Repo.Some other code that was created for clients ,cannot be presentd in here. 
+
+My experience include anvanced techlologies or tools like Node/Express server of Sequilze ORM from one hand, or some "simple" or complex native JavaScript on the other. 
  -
  -
 - פרויקטים לדוגמא עם קוד
