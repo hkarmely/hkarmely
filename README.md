@@ -21,7 +21,7 @@
   
 
 - מקבץ פרויקטים לדוגמא (* https://github.com/hkarmely?tab=repositories)
-פרויקטים עם קוד
+- פרויקטים עם קוד
 - מעקב חופשות בעדכון של Real time עם Node, React, MySQL, Express, Socket.io  ו- HEROKU
 לצפייה ב"לייב"  https://follow-flights-react-practice.herokuapp.co 
 לצפייה בקוד https://github.com/hkarmely/follow-vecations
