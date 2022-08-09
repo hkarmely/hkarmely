@@ -27,7 +27,7 @@ My experience include anvanced techlologies or tools like Node/Express server of
  -
  -
 - פרויקטים לדוגמא עם קוד
-- הפרווייקטים בחשבון זה: https://github.com/hkarmely?tab=repositories
+- כל הפרוייקטים בחשבון זה: https://github.com/hkarmely?tab=repositories
 
 - פרוייקט WebScrapping מורכב שמוריד רשמת קטגוריות, קבצי מוצרים לכל קטגוריה ותמונות לכל מוצר, בנוי על בסיס node.js עם חבילת puppeteer של npm:
 https://github.com/hkarmely/Heavy-Web-Scraper-With-NodeJS-Puppeteer
